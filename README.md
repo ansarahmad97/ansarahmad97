@@ -1,4 +1,6 @@
-[![MasterHead](https://i.ibb.co/8mWG7kq/banner.png)]
+
+  ![MasterHead](https://i.ibb.co/8mWG7kq/banner.png)
+
 <h1 align="center">Hi 👋, I'm Ansar Ahmed</h1>
 <h3 align="center">Expert in WooCommerce, Elementor, and Divi | Proficient in HTML, CSS, PHP, JavaScript, and jQuery | Passionate about Digital Marketing</h3>
 <br>
