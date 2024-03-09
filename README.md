@@ -1,14 +1,8 @@
-![MasterHead](https://i.ibb.co/8mWG7kq/banner.png)
+[![MasterHead](https://i.ibb.co/8mWG7kq/banner.png)]
 <h1 align="center">Hi 👋, I'm Ansar Ahmed</h1>
-<h3 align="center">Expert in WooCommerce, Elementor, and Divi | Proficient in HTML, CSS, PHP, JavaScript, and jQuery | Passionate about Digital Marketing</h3><br>
-
-<img src="https://i.ibb.co/dkk327z/logo.png" alt="logo" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarahmad97&label=Profile%20views&color=0e75b6&style=flat" alt="ansarahmad97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansarahmad97" alt="ansarahmad97" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ansarbhatti07" target="blank"><img src="https://img.shields.io/twitter/follow/ansarbhatti07?logo=twitter&style=for-the-badge" alt="ansarbhatti07" /></a> </p>
+<h3 align="center">Expert in WooCommerce, Elementor, and Divi | Proficient in HTML, CSS, PHP, JavaScript, and jQuery | Passionate about Digital Marketing</h3>
+<br>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/dkk327z/logo.png" alt="logo" border="0">
 
 - 🔭 I’m currently working on **SEO Blogging**
 
@@ -23,6 +17,14 @@
 - 📫 How to reach me **ahmadansar41@gmail.com**
 
 - ⚡ Fun fact **My love for problem-solving extends beyond the screen; I'm an avid puzzle enthusiast.**
+
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarahmad97&label=Profile%20views&color=0e75b6&style=flat" alt="ansarahmad97" /> </p>
+<br>
+<p align="left"> <a href="https://twitter.com/ansarbhatti07" target="blank"><img src="https://img.shields.io/twitter/follow/ansarbhatti07?logo=twitter&style=for-the-badge" alt="ansarbhatti07" /></a> </p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansarahmad97" alt="ansarahmad97" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
