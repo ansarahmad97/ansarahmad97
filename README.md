@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **SEO, PHP, jQuery, WP plugin and themes**
 
-- 📫 How to reach me **ahmadansar41@gmail.com**
-
 - ⚡ Fun fact **My love for problem-solving extends beyond the screen; I'm an avid puzzle enthusiast.**
 
 
